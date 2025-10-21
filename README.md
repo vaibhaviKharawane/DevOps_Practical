@@ -4,3 +4,4 @@ feature-login
 main
 "New commit in main branch after merge" 
 "Another update in main branch" 
+This is the feature-login branch update.
